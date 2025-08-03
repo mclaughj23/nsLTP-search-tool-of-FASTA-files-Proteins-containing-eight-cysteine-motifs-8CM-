@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "John"
+  given-names: "McLaughlin"
+  orcid: "https://orcid.org/0000-0003-4511-6202"
+title: "Two 8CM motif search tool for nsLTP classification"
+version: 2.0.4
+doi: 10.5281/zenodo.16730282
+date-released: 2025-08-02
+url: "https://github.com/mclaughj23/nsLTP-search-tool-of-FASTA-files-Proteins-containing-eight-cysteine-motifs-8CM-/tree/main"
