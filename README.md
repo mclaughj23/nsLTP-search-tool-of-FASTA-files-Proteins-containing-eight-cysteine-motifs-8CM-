@@ -1,1 +1,1 @@
-Python scripts were created to parse FASTA-formatted protein sequences, identifying entries with eight cysteine residues and flagging those exhibiting the 8-Cysteine Motif (8CM) and proteins containing at least two 8CM motifs.
+Python script created to parse FASTA-formatted protein sequences, identifying proteins containing at least two 8-Cysteine Motifs (8CMs).
