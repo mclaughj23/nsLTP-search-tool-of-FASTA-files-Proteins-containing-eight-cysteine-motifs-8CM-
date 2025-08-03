@@ -1,1 +1,1 @@
-This is a python script written to identify proteins containing eight cysteines to help identify those proteins with the 8CM motif (8CM) from a file containing protein sequences in FASTA format.
+Python scripts were created to parse FASTA-formatted protein sequences, identifying entries with eight cysteine residues and flagging those exhibiting the 8-Cysteine Motif (8CM) and proteins containing at least two 8CM motifs.
